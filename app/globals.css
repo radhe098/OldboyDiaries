@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body{
+  background-color: skyblue;
+  font-size: 30px;
+  text-align: center;
+
+}; */
